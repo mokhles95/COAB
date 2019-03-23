@@ -1,0 +1,32 @@
+[0323/134002.127:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Accès refusé. (0x5)
+[0323/134002.155:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0323/134002.171:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Accès refusé. (0x5)
+[0323/134312.533:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Accès refusé. (0x5)
+[0323/134312.554:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0323/134312.563:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Accès refusé. (0x5)
+[0323/154413.622:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Accès refusé. (0x5)
+[0323/154413.638:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0323/154413.653:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Accès refusé. (0x5)
+[0323/234141.053:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Accès refusé. (0x5)
+[0323/234141.082:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0323/234141.092:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Cansuck\settings.dat: Accès refusé. (0x5)
+[0324/181650.088:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0324/181650.722:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0324/181650.738:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0324/181650.874:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0324/181708.613:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0324/181709.080:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0324/181709.083:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0324/181709.246:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0324/183833.340:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0324/183833.976:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0324/183834.052:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0324/183834.537:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0325/155136.063:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0325/155136.779:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0325/155136.796:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0325/155138.598:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0327/162327.082:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0327/162328.051:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0327/162328.066:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0327/162329.004:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
